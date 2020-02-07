@@ -1,0 +1,129 @@
+{
+  "orderCount": 12345,
+  "matchCount": 2234,
+  "successCount": 1128,
+  "failedCount": 1234,
+  "marketCount": 2,
+  "operatorCount": 1,
+  "marketsChart": [{
+      "name": "RVX-WWAN",
+      "matchCount": 231
+    },
+    {
+      "name": "WBTC-WWAN",
+      "matchCount": 231
+    },
+    {
+      "name": "WETH-WWAN",
+      "matchCount": 231
+    },
+    {
+      "name": "WLINK-WWAN",
+      "matchCount": 231
+    }
+  ],
+  "operatorsChart": [{
+      "name": "RiveX",
+      "matchCount": 2314
+    },
+    {
+      "name": "Others",
+      "matchCount": 1
+    }
+  ],
+  "orderLine": {
+    "orderCount": [{
+        "date": "02/07",
+        "count": 123
+      },
+      {
+        "date": "02/08",
+        "count": 123
+      },
+      {
+        "date": "02/09",
+        "count": 123
+      },
+      {
+        "date": "02/10",
+        "count": 123
+      },
+      {
+        "date": "02/11",
+        "count": 123
+      },
+      {
+        "date": "02/12",
+        "count": 123
+      }
+    ],
+    "matchCount": [{
+        "date": "02/07",
+        "count": 123
+      },
+      {
+        "date": "02/08",
+        "count": 123
+      },
+      {
+        "date": "02/09",
+        "count": 123
+      },
+      {
+        "date": "02/10",
+        "count": 123
+      },
+      {
+        "date": "02/11",
+        "count": 123
+      },
+      {
+        "date": "02/12",
+        "count": 123
+      }
+    ]
+  },
+  "operatorTable": [{
+      "operatorName": "RiveX",
+      "operatorID": 1,
+      "orderCount": 231,
+      "matchCount": 211,
+      "successCount": 101,
+      "failedCount": 92
+    },
+    {
+      "operatorName": "Others",
+      "operatorID": 2,
+      "orderCount": 1,
+      "matchCount": 1,
+      "successCount": 1,
+      "failedCount": 0
+    }
+  ],
+  "marketTable": [
+    {
+      "marketPair":"RVX-WWAN",
+      "orderCount":123,
+      "matchCount":211,
+      "baseAmount":31.1,
+      "quoteAmount":25.1,
+      "operatorID":1
+    },
+    {
+      "marketPair":"WBTC-WWAN",
+      "orderCount":123,
+      "matchCount":211,
+      "baseAmount":31.1,
+      "quoteAmount":25.1,
+      "operatorID":1
+    },
+    {
+      "marketPair":"WETH-WWAN",
+      "orderCount":123,
+      "matchCount":211,
+      "baseAmount":31.1,
+      "quoteAmount":25.1,
+      "operatorID":1
+    }
+  ]
+}

@@ -146,6 +146,7 @@ class Curved extends React.Component {
     };
     return (
       <div>
+        <div>Orders Time Line</div>
         <Chart height={300} width={800} data={data} scale={cols} forceFit>
           <Legend />
           <Axis name="month" />
