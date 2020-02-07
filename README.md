@@ -8,3 +8,4 @@ yarn
 
 umi dev
 ```
+![./demo.png](./demo.png)

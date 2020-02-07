@@ -6,29 +6,29 @@
   "marketCount": 2,
   "operatorCount": 1,
   "marketsChart": [{
-      "name": "RVX-WWAN",
-      "matchCount": 231
+      "item": "RVX-WWAN",
+      "count": 800
     },
     {
-      "name": "WBTC-WWAN",
-      "matchCount": 231
+      "item": "WBTC-WWAN",
+      "count": 600
     },
     {
-      "name": "WETH-WWAN",
-      "matchCount": 231
+      "item": "WETH-WWAN",
+      "count": 400
     },
     {
-      "name": "WLINK-WWAN",
-      "matchCount": 231
+      "item": "WLINK-WWAN",
+      "count": 200
     }
   ],
   "operatorsChart": [{
-      "name": "RiveX",
-      "matchCount": 2314
+      "item": "RiveX",
+      "count": 2314
     },
     {
-      "name": "Others",
-      "matchCount": 1
+      "item": "Others",
+      "count": 1
     }
   ],
   "orderLine": {

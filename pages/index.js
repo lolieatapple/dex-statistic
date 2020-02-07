@@ -108,6 +108,7 @@ export default class DexStatistic extends React.Component {
     return (
       <div className={styles.normal}>
         <h1 className={styles.h1}>Dex Statistic</h1>
+        <img className={styles.img} src='https://img.shields.io/badge/Wanchain-Testnet-green.svg'/>
         <div className={styles.block}>
           <Statistic title="Order Count" value={this.state.data.orderCount} />
           <Statistic title="Match Count" value={this.state.data.matchCount} />
