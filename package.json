@@ -4,7 +4,7 @@
   },
   "dependencies": {
     "@antv/data-set": "^0.10.2",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bizcharts": "^3.5.6"
   }
 }
